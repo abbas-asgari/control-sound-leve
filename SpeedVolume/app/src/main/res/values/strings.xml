@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SpeedVolume</string>
+    <string name="btn_start">شروع</string>
+    <string name="btn_stop">توقف</string>
+    <string name="status_active">● در حال اجرا</string>
+    <string name="status_inactive">● غیرفعال</string>
+</resources>
